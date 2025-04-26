@@ -25,7 +25,7 @@ The model successfully reached a mean Average Precision (mAP) greater than 0.5 a
   * Epoch 50: **mAP ≈ 0.51**
 
 Below is an example of YOLO applied to a video:
-[https://github.com/user-attachments/assets/39174800-734f-492e-9e60-ff546df5ff37](https://drive.google.com/file/d/18rfuY8gvT3C4Kiz54NsvQFJqlfm1hFfX/view?usp=drive_link)
+
 
 ## Repository Contents
 * `data/` -- Folder containing the dataset files.

@@ -26,6 +26,8 @@ The model successfully reached a mean Average Precision (mAP) greater than 0.5 a
 
 Below is an example of YOLO applied to a video:
 
+https://github.com/user-attachments/assets/87b8c54c-8547-43a9-9e54-466582684c6e
+
 
 ## Repository Contents
 * `data/` -- Folder containing the dataset files.

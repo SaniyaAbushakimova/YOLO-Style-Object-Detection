@@ -13,6 +13,7 @@ The objective was to design a clear training and evaluation pipeline capable of 
 1. **YOLO Loss Function Implementation**: Developed a custom *YOLO-style loss function* to train an object detector, combining localization, confidence, and classification losses.
 2.	**Training and Evaluation Pipeline**: Built a full training loop and evaluation setup inside a Jupyter Notebook, allowing easy visualization of model progress and predictions.
 3.	**Pre-Trained Backbone**: Integrated a lightweight pre-trained network inspired by *DetNet* to boost training efficiency and achieve higher accuracy with reduced computational cost.
+4.	**ConvNeXt-Tiny YOLO Model**: Implemented a second YOLO-style detector by modifying a ConvNeXt-Tiny backbone, adding custom detection heads, and training it end-to-end with YOLO loss.
 
 ## Results Summary
 
